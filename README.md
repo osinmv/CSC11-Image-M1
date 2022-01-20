@@ -24,7 +24,7 @@
         http://b8b3d8e30f3a:8888/?token=.......
      or http://127.0.0.1:8888/?token=.......
      ``` 
-Just copy one of the links(http://b8b3d8e30f3a:8888/?token=.......) somewhere, so you do not lose it.
+Just copy one of the links(http://127.0.0.1:8888/?token=.......) somewhere, so you do not lose it.
 
 Now if you go to the link, you will see that you have jupyter notebook running without any issue.
 
