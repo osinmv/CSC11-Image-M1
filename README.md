@@ -38,6 +38,7 @@ Now if you go to the link, you will see that you have jupyter notebook running w
  **It is important to note**: All the files you created before stopping container will be saved in that container. Once you start that container you can easily continue working on your project 
  - To remove container simply run `podman rm container_name`
  - To stop podman internal machine run `podman machine stop`. Otherwise it will be running even when you stop all containers
+ - To start podman internal machine run `podman machine start`
 
  ## Contributing
   Make a `PR`  if you want to add more transparency to the guide or fix my grammar or add comments to `Dockerfile` 
